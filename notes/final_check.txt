@@ -1,0 +1,12 @@
+Student Name: Venna Prudence
+GitHub Username: VennaFutures
+Repository: SE103-Week6
+Repository URL: https://github.com/VennaFutures/SE103-Week6
+
+Git habits I demonstrated this week:
+I demonstrated inspect-before-commit by running status and diff before each commit. I made small clear commits instead of one giant commit. I used .gitignore to protect repository from secrets and junk files. I practiced branch hygiene and PR communication. I kept history clean with meaningful commit messages.
+
+One mistake-prevention habit I will keep:
+I will always run git status and git diff --staged before committing to avoid committing wrong files or secrets.
+
+All required files are on main: Yes
