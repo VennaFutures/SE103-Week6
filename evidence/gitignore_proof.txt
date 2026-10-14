@@ -1,0 +1,13 @@
+Student Name: Venna Prudence
+
+Patterns in my .gitignore:
+.DS_Store
+*.log
+temp/
+secret.env
+
+What git status showed about the ignored files:
+When I ran git status, the ignored files secret.env, temp/temp_note.txt, and practice/app.log were not listed. Git showed only .gitignore and evidence/gitignore_proof.txt as untracked. This proves gitignore is working and keeping unwanted files out.
+
+Why committing secrets is dangerous:
+If secrets are committed, they stay in Git history forever even if deleted later. Anyone with repo access can use them to access accounts or services. It can lead to data breaches and account hijacking. Once pushed, you must revoke and rotate the secret immediately.
