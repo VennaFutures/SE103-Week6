@@ -1,0 +1,7 @@
+Student Name: Venna Prudence
+
+What I check before committing:
+I run git status to see which files changed and which branch I am on. I run git diff to see exact line changes. I run git diff --staged to confirm what will be committed. I also check git log --oneline to see recent history.
+
+What I am committing now and why:
+I am committing status_notes.txt now to document my inspect-before-commit habit, so I remember to check before every commit.
