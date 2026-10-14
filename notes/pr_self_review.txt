@@ -1,0 +1,13 @@
+Student Name: Venna Prudence
+
+What changed:
+I added a new section How I use Git carefully with four habits. I updated README to keep identity at top and add practical habits below.
+
+How I verified the change:
+I ran git status to see README modified, git diff to check lines added, and cat README.md to confirm formatting is correct.
+
+One possible improvement a reviewer might suggest:
+A reviewer might suggest adding more detail or examples for each habit, or fixing grammar.
+
+Professional response I would give:
+Good catch. I will add examples to make habits clearer. Updated in latest commit.
