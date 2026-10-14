@@ -1,0 +1,22 @@
+Student Name: Venna Prudence
+
+Weak message 1: updates
+Improved message 1:
+update README with git care habits section
+Why this is better:
+It says what file changed and what was added, so teammates know the purpose without opening the diff.
+
+Weak message 2: final final
+Improved message 2:
+add final check notes and complete week6 verification
+Why this is better:
+Final final means nothing later. The improved version describes the actual work completed.
+
+Weak message 3: stuff
+Improved message 3:
+add practice notes for inspect-before-commit habit
+Why this is better:
+Stuff is vague. The new message tells exactly what content was added and why it matters.
+
+My personal commit message rule:
+I will start with a verb like add, fix, update, document. I will keep it under 50 characters for title and explain why in body if needed. I will ask myself if I can understand it in 3 weeks.
